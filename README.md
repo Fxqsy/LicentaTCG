@@ -1,6 +1,5 @@
 # Context-Aware Authorization with AI Agents
 
-> **Bachelor's Thesis**
 
 ## Research Question
 
