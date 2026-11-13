@@ -62,7 +62,6 @@ The survey literature calls this pattern *capability creep*. Permissions pile up
 - Fake accounts build clean behavior histories in advance.
 
 **Controls**
-- A separation-of-duties matrix in the hard rules
 - Risk computed on the **combined** privilege set
 - Cross-user correlation features
 - One account's approval is never treated as evidence for another account
