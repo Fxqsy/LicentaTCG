@@ -133,11 +133,11 @@ The model is defined by the following components:
 
 ## Related Work: Behavioral Access Control
 
-Behavioral access control is an emerging approach. Access decisions rely not only on static roles and permissions, but also on how users typically interact with systems [4].
+Behavioral access control is an emerging approach. Access decisions rely not only on static roles and permissions, but also on how users typically interact with systems.
 
 It uses **user behavior analytics (UBA)** to build a profile of normal activity: which resources a user accesses, when, and how often. A deviation from that profile does not automatically block the user. Instead, it can trigger **step-up authentication** or a **temporary access restriction**.
 
-This fits the broader shift toward **Zero Trust**, where trust is verified continuously instead of being granted once. Industry sources also describe AI-driven systems that flag anomalies and adjust permissions according to risk scores. They report fewer false positives than with fixed rules [4].
+This fits the broader shift toward **Zero Trust**, where trust is verified continuously instead of being granted once. Industry sources also describe AI-driven systems that flag anomalies and adjust permissions according to risk scores. They report fewer false positives than with fixed rules.
 
 **How this thesis extends it**
 
